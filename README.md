@@ -25,6 +25,6 @@
 3. 上面 5A 成绩，终究有点名不副实？呵呵
 
 ## PMP is a joke!
-你我都应该知道毕竟是一个金钱商业社会。呵呵
+你我都应该知道毕竟是一个金钱商业社会。**公平** 呵呵
 
 ![hehe.png](https://raw.githubusercontent.com/emacle/pmpexam/master/public/hehe.png)
