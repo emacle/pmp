@@ -4,7 +4,7 @@
 记录下2个多月的视频学习记录（五个过程组、十大知识领域ITTO）及8套模拟试题（各2遍）
 
 ## 8套模拟试题在线测试地址（支持手机浏览器）
-[点击进入在线题库](http://172.93.43.131:11000/)
+[点击进入在线题库](http://www.emacle.cf:11000/)
 
 ![操作说明](https://raw.githubusercontent.com/emacle/pmpexam/master/public/exam_test.gif)
 
