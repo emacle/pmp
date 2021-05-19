@@ -15,16 +15,3 @@
 ## 2020年09月考试成绩（5A）
 ![5A](https://raw.githubusercontent.com/emacle/pmpexam/master/public/5A.png)
 ![5A-2](https://raw.githubusercontent.com/emacle/pmpexam/master/public/5A-2.png)
-
-## PMi本次考试计分异常？呵呵
-
-![wrong.png](https://raw.githubusercontent.com/emacle/pmpexam/master/public/wrong.png)
-
-1. 如果计分异常，为了**公平**，则所有成绩都需要重新核实计算; 
-2. 如果为保通过率，仅核实未通过成绩，赢得了金钱而牺牲PMi权威性、公正性。 **PMP含金量？呵呵**
-3. 上面 5A 成绩，终究有点名不副实？呵呵
-
-## PMP is a joke!
-你我都应该知道毕竟是一个金钱商业社会。**公平** 呵呵
-
-![hehe.png](https://raw.githubusercontent.com/emacle/pmpexam/master/public/hehe.png)
