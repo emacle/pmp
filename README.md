@@ -11,6 +11,5 @@
 
 附PMP考点培训讲义.pdf 链接: https://pan.baidu.com/s/1QOX6bk4vN7B2XFVYLUg0Gw 提取码: jiya
 
-## 2020年09月考试成绩
+## 考试结果
 ![5A](https://raw.githubusercontent.com/emacle/pmpexam/master/public/5A.png)
-![5A-2](https://raw.githubusercontent.com/emacle/pmpexam/master/public/5A-2.png)
